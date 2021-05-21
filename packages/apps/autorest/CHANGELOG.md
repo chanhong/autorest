@@ -1,6 +1,22 @@
 # Change Log - autorest
 
-This log was last generated on Fri, 09 Apr 2021 19:53:22 GMT and should not be manually modified.
+This log was last generated on Thu, 20 May 2021 16:41:13 GMT and should not be manually modified.
+
+## 3.2.1
+Thu, 20 May 2021 16:41:13 GMT
+
+_Version update only_
+
+## 3.2.0
+Tue, 27 Apr 2021 17:48:43 GMT
+
+### Minor changes
+
+- **Update** minimum node version from `10.12` to `10.16`
+
+### Patches
+
+- **Updated** CLI Parsing to uptake logic moved to @autorest/configuration
 
 ## 3.1.5
 Fri, 09 Apr 2021 19:53:22 GMT
